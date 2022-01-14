@@ -196,5 +196,5 @@ Select the row you want to edit using arrow keys.
 
 Bhartik Harchand - [Instagram](https://www.instagram.com/_._bsh_._/) - bsh.bhartik@gmail.com
 
-Project Link: [https://github.com/BSH2409/R-B_Tree](https://github.com/BSH2409/R-B_Tree)
+Project Link: [https://github.com/BSH2409/Airline-Management](https://github.com/BSH2409/Airline-Management)
 
